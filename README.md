@@ -96,8 +96,13 @@ Example business questions:
 
 ## 📸 Dashboard Preview
 
+Power BI
+
 <img width="991" height="726" alt="Screenshot 2026-06-24 212901" src="https://github.com/user-attachments/assets/bee9093d-fa29-49de-a749-f6ecae760de9" />
 
+Tableau 
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/f1718e09-c432-453e-9842-25feb2c8e3a2" />
 
 
 
