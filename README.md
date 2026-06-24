@@ -102,7 +102,8 @@ Power BI
 
 Tableau 
 
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/f1718e09-c432-453e-9842-25feb2c8e3a2" />
+<img width="1572" height="1001" alt="ChatGPT Image Jun 24, 2026, 10_39_49 PM" src="https://github.com/user-attachments/assets/722564fa-69ef-4792-bf0a-91dab3e82b1e" />
+
 
 
 
